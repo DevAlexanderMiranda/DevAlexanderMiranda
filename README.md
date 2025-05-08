@@ -132,6 +132,10 @@ Sou um desenvolvedor **`Full Stack Web (Junior)`** dedicado à criação de solu
 </p>
 
 
+### Thanks for visiting ❤️
 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/DevAlexanderMiranda/count.svg?"  />
+</div>
 
 
