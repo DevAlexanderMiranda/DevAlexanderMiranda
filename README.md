@@ -64,6 +64,8 @@ Sou um desenvolvedor **`Full Stack Web (Junior)`** dedicado à criação de solu
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
 />
+
+<!-- 
 <img 
     align="left" 
     alt="Tailwind" 
@@ -96,7 +98,7 @@ Sou um desenvolvedor **`Full Stack Web (Junior)`** dedicado à criação de solu
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
-
+-->
 <img 
     align="left" 
     alt="Postgresql" 
