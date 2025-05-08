@@ -116,7 +116,7 @@ Sou um desenvolvedor **`Full Stack Web (Junior)`** dedicado à criação de solu
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="180" 
+    height="150" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=DevAlexanderMiranda&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
@@ -125,17 +125,8 @@ Sou um desenvolvedor **`Full Stack Web (Junior)`** dedicado à criação de solu
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="180" 
+      height="150" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevAlexanderMiranda&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
-
-
-### Thanks for visiting ❤️
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/DevAlexanderMiranda/count.svg?"  />
-</div>
-
-
