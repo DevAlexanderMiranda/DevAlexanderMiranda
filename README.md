@@ -65,7 +65,7 @@ I'm a **`Junior Full Stack Web Developer`** specialized in building well-structu
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
 />
 
-<!-- 
+
 <img 
     align="left" 
     alt="Tailwind" 
@@ -98,7 +98,7 @@ I'm a **`Junior Full Stack Web Developer`** specialized in building well-structu
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
--->
+
 <img 
     align="left" 
     alt="Postgresql" 
