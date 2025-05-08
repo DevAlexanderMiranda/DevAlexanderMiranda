@@ -1,12 +1,12 @@
 # Alexander Miranda 
 
-**`Desenvolvedor FullStack Web`**
+**`Developer FullStack Web`**
 
-Sou um desenvolvedor **`Full Stack Web (Junior)`** dedicado à criação de soluções web eficientes e bem estruturadas. Minha experiência abrange tanto o **`front-end`** quanto o **`back-end`**, permitindo-me construir aplicações que aliam uma apresentação cuidadosa com uma funcionalidade sólida e confiável.
+I'm a **`Junior Full Stack Web Developer`** specialized in building well-structured web solutions, with a strong focus on Clean Code and problem-solving. My technical approach seamlessly integrates front-end and back-end, ensuring intuitive user interfaces. My interpersonal and soft skills—such as clear communication, teamwork, and adaptability—enable me to translate complex requirements into technical solutions, always prioritizing maintainability and user experience. By combining technical discipline with effective collaboration, I develop applications that not only work but are also sustainable and scalable
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Languages ​​and Technologies
 
 <img 
     align="left" 
@@ -110,7 +110,7 @@ Sou um desenvolvedor **`Full Stack Web (Junior)`** dedicado à criação de solu
 <br/>
 
 
-### 📊 Estatísticas
+### 📊 Statistics
 
 <p>
   <img 
@@ -118,7 +118,7 @@ Sou um desenvolvedor **`Full Stack Web (Junior)`** dedicado à criação de solu
     alt="GitHub Stats" 
     height="150" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=DevAlexanderMiranda&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=DevAlexanderMiranda&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" 
   />
 
 
@@ -126,7 +126,7 @@ Sou um desenvolvedor **`Full Stack Web (Junior)`** dedicado à criação de solu
       align="left" 
       alt="GitHub Stats" 
       height="150" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevAlexanderMiranda&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevAlexanderMiranda&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9" />
+
 
 </p>
