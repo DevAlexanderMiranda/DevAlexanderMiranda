@@ -101,12 +101,22 @@ I'm a **`Junior Full Stack Web Developer`** specialized in building well-structu
 
 <img 
     align="left" 
-    alt="Postgresql" 
-    title="Postgresql"
+    alt="Firebase" 
+    title="Firebase"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg"
 />
+
+<img 
+    align="left" 
+    alt="Postgresql" 
+    title="Postgresql"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain.svg"
+/>
+
 <br/>
 
 
